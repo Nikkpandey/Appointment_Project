@@ -1,1 +1,1 @@
-Hibernate java apppontmrnt schedulling system
+Hibernate java apppointment schedulling system
